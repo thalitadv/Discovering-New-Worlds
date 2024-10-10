@@ -14,7 +14,6 @@
 
 .slide {
   min-width: 80vw;
-  position: relative;
   height: 81vh;
   display: flex;
   flex-direction: column;
